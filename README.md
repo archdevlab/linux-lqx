@@ -1,0 +1,2 @@
+# linux-lqx
+Liquorix Kernel
